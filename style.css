@@ -1,0 +1,10 @@
+body {
+  font-family: system-ui;
+  
+  color: black
+   ;
+  text-align: center;
+}
+
+p {max-width: 900px;
+margin: auto;}
